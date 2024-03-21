@@ -15476,6 +15476,11 @@
             "source": "https://styleguide.torproject.org/brand-assets"
         },
         {
+            "title": "TorchGeo",
+            "hex": "0078D7",
+            "source": "https://github.com/microsoft/torchgeo/blob/f7a8d63467e9261817e4266400b486fcb960a61e/logo/logomark-color.svg"
+        },
+        {
             "title": "Toshiba",
             "hex": "FF0000",
             "source": "https://commons.wikimedia.org/wiki/File:Toshiba_logo.svg"
